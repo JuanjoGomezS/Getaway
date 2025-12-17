@@ -1,0 +1,13 @@
+{
+    "name": "Gateways",
+    "alias": "Gateways",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gateways\\Providers\\GatewaysServiceProvider"
+    ],
+    "files": [
+        "Library/Constant.php"
+    ]
+}

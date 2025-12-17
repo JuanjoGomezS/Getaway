@@ -1,0 +1,2 @@
+INSERT INTO `addon_settings` (`id`, `key_name`, `live_values`, `test_values`, `settings_type`, `mode`, `is_active`, `created_at`, `updated_at`, `additional_data`) VALUES
+('7r9b8dfb-e7d1-11ed-a559-0c7a158e4459', 'redsys', '{\"gateway\":\"redsys\",\"mode\":\"test\",\"status\":\"1\",\"key\":\"\",\"merchantcode\":\"\",\"tradeName\":\"\",\"titular\":\"\"}', '{\"gateway\":\"redsys\",\"mode\":\"test\",\"status\":\"1\",\"key\":\"\",\"merchantcode\":\"\",\"tradeName\":\"\",\"titular\":\"\"}', 'payment_config', 'test', 0, NULL, '2023-11-29 23:08:40', NULL);

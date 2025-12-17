@@ -1,0 +1,2 @@
+-- INSERT INTO `addon_settings` (`id`, `key_name`, `live_values`, `test_values`, `settings_type`, `mode`, `is_active`, `created_at`, `updated_at`, `additional_data`) VALUES
+-- ('42a8cad7-6736-11ee-909d-0c7a158e4469', 'instamojo', '{\"gateway\":\"instamojo\",\"mode\":\"test\",\"status\":\"0\",\"client_id\":\"\",\"client_secret\":\"\"}', '{\"gateway\":\"instamojo\",\"mode\":\"test\",\"status\":\"0\",\"client_id\":\"\",\"client_secret\":\"\"}', 'sms_config', 'test', 0, NULL, NULL, NULL);
